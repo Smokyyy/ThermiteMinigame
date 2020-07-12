@@ -12,3 +12,7 @@ To start the game you'll need to:
   3) Open Thermite minigame.exe in there
 
 Made by Smokyy__ on twitch.
+
+I am not going to update this project any further. 
+I've also updated my discord to Smoky#2222 from Smoky#1337, so if you got any questions there, go ahead.
+

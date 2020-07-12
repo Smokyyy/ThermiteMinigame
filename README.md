@@ -13,6 +13,6 @@ To start the game you'll need to:
 
 Made by Smokyy__ on twitch.
 
-I am not going to update this project any further. 
-I've also updated my discord to Smoky#2222 from Smoky#1337, so if you got any questions there, go ahead.
+**I am not going to update this project any further. 
+I've also updated my discord to Smoky#2222 from Smoky#1337, so if you got any questions there, go ahead.**
 

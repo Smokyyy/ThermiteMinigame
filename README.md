@@ -13,7 +13,10 @@ To start the game you'll need to:
 
 Made by Smokyy__ on twitch.
 
-**I am not going to update this project any further.**
+# Hurray game is now playable through web!
+Finally published it as WebGL game on github pages. Now you don't even need to download it. 
+(Except if you want to resize the window, you'll have to either download the game or change resolution inside of inspect element)
 
-**I've also updated my discord to Smoky#2222 from Smoky#1337, so if you got any questions there, go ahead.**
+https://smokyyy.github.io/Thermite-minigame-WEB/
+
 

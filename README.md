@@ -19,4 +19,4 @@ Finally published it as WebGL game on github pages. Now you don't even need to d
 
 https://smokyyy.github.io/Thermite-minigame-WEB/
 
-
+(Btw I am not even sure if this minigame is still in NoPixel, since I haven't watched any streams for almost a year)
